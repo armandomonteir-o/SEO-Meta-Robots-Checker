@@ -21,7 +21,6 @@ Ferramenta para verificação em massa da meta tag robots (index/follow) com par
   - 🚨 Erros HTTP (4xx/5xx)
   - 🔥 Erros de processamento
 - **Geração automática** de relatórios em Excel (.xlsx)
-- **Logging detalhado** com métricas de performance
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -127,6 +126,7 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 
 ## 🔮 Melhorias Futuras
 
+- [ ] Loggings de perfomance mais detalhados.
 - [ ] Adicionar suporte para mais meta tags
 - [ ] Implementar modelos de relatório personalizados
 - [ ] Adicionar opções de integração via API
