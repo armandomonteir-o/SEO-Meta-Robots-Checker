@@ -30,7 +30,7 @@ Ferramenta para verificação em massa da meta tag robots (index/follow) com par
 ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-red?logo=pandas)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12.0-lightgrey?logo=beautifulsoup)
 
-## ⚙️ Installation
+## ⚙️ Instalação
 
 1. Clone o repositório
 
