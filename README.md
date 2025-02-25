@@ -75,7 +75,7 @@ O relatório gerado em Excel contém as seguintes colunas:
 - URL
 - HTTP Status
 
-## 🔍 Example Output
+## 🔍 Exemplo de Output
 
 ```
 [https://example.com] -> ✅ Configuração correta: 'index, follow'
@@ -98,13 +98,9 @@ O relatório gerado em Excel contém as seguintes colunas:
   </tr>
 </table>
 
-## 📈 Project Status
+## 📈 Status do Projeto
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-
-## 📝 License
-
-This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ## 💡 Contribuindo
 
